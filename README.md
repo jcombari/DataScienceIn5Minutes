@@ -38,6 +38,14 @@ Creemos que los conceptos complejos no tienen que ser difíciles. Nuestro objeti
 - **Tutoriales prácticos**: Ejemplos de código en **Python** y **R** para llevar la teoría a la práctica.
 - **Aprendizaje rápido**: Publicaciones breves que entregan valor en poco tiempo.
 
+## Segments 📚 | Segmentos 📚
+
+- **Data and Coffee: Easy Statistics in 5 Minutes**: *Data & Coffee: Statistics Made Easy in 5 Minutes* is the perfect repository to dive into key concepts of statistics and Machine Learning without the complexity. Here, we turn the technical into something simple and easy to grasp. In just a few minutes, you’ll have tools and practical examples to apply to your projects 🚀. And it all comes with a good cup of coffee! ☕😉  
+  [Link](https://github.com/jcombari/DataScienceIn5Minutes/tree/main/Data%20and%20Coffee%20Easy%20Statistics%20in%205%20Minutes)
+
+- **Deep Dive into Deep Learning: Innovations in 5 Minutes**: *Deep Dive into Deep Learning: Innovations in 5 Minutes* is your go-to space to discover how deep neural networks are transforming the world, all in a quick and easy-to-digest format. 🤖💡 Here, we explore groundbreaking advancements, from drug discovery 💊 to predicting extreme weather events 🌪️, all through brief articles that allow you to grasp the core of each topic in just a few minutes ⏳. Get ready to dive into the future of AI, and in 5 minutes, you’ll be equipped to apply these insights to your life or projects 🎯. The deep learning revolution is just one click away! 🌐🚀  
+  [Link](https://github.com/jcombari/DataScienceIn5Minutes/tree/main/Deep%20Dive%20into%20Deep%20Learning%20Innovations%20in%205%20Minutes)
+
 ## Topics Covered 📚 | Temas cubiertos 📚
 
 - **Data Science Basics**: From data cleaning to model evaluation.
@@ -72,4 +80,3 @@ Follow the repository to get the latest posts and tutorials delivered right to y
 **#DataScience #MachineLearning #DeepLearning #Statistics #TechForEveryone #Python #R #AI #LearningMadeSimple**
 
 **#DataScience #MachineLearning #DeepLearning #Estadística #TechParaTodos #Python #R #IA #AprendizajeHechoSimple**
-
