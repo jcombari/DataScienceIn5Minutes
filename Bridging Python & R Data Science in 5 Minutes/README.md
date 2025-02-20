@@ -1,4 +1,4 @@
-# **Bridging Python & R: Data Science in 5 Minutes** 🔍📊
+# **Bridging Python & R: Seamless Data Science in 5 Minutes 🔗🐍📊** 
 
 ### **In English:**
 *Bridging Python & R: Data Science in 5 Minutes* is your go-to space to explore how Python and R complement each other in data science, without fueling unnecessary competition. 🚀🐍📈 In this repository, you’ll find concise yet powerful code snippets in both languages, demonstrating how each can enhance your analytical capabilities. The key is to be **technology-agnostic**, staying loyal not to a specific tool, but to **AI and data science** itself. Whether you're modeling in Python or visualizing in R, the goal is to make the most of both worlds. 🌍💡
